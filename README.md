@@ -8,7 +8,10 @@ This project can monitor a user's heart rate in real time using just a webcam. I
 
 
 
-https://github.com/moody00au/webcam-heart-rate-monitor/assets/124024445/b1d83d6e-7ade-4670-a3fc-e1e61ecfd67f
+
+
+https://github.com/moody00au/webcam-heart-rate-monitor/assets/124024445/5ac7f8c4-0e89-449d-a1d6-dd2d2aa14000
+
 
 
 ## Getting Started
