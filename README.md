@@ -1,6 +1,10 @@
 # Webcam Heart Rate Monitor (Forked from https://github.com/giladoved/webcam-heart-rate-monitor - Thank you! and thank you to the folks at MIT!)
 
+New feature tracks face using mediapipe face detection! The rest of the code is from the original fork. 
+
 Measure Your Heart Rate Using Your Webcam!
+- No need any more to "Place your forehead in the green box (area of detection)"
+
 
 *Note: This project was made for educational purposes only. This is not for commercial use. The algorithm is based on the incredible work done at the MIT Computer Science & Artificial Intelligence Lab. Please check out their [work](http://people.csail.mit.edu/mrub/evm/).*
 
@@ -11,8 +15,6 @@ This project can monitor a user's heart rate in real time using just a webcam. I
 
 
 https://github.com/moody00au/webcam-heart-rate-monitor/assets/124024445/5ac7f8c4-0e89-449d-a1d6-dd2d2aa14000
-
-
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing.
@@ -66,7 +68,7 @@ python main.py original.mov
 
 - Make sure your face is well lit
 
-- Place your forehead in the green box (area of detection)
+- No need any more to "Place your forehead in the green box (area of detection)"
 
 - Try not to move or blink too much
 
