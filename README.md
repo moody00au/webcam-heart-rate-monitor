@@ -1,11 +1,15 @@
-# Webcam Heart Rate Monitor
+# Webcam Heart Rate Monitor (Forked from https://github.com/giladoved/webcam-heart-rate-monitor - Thank you! and thank you to the folks at MIT!)
+
 Measure Your Heart Rate Using Your Webcam!
 
 *Note: This project was made for educational purposes only. This is not for commercial use. The algorithm is based on the incredible work done at the MIT Computer Science & Artificial Intelligence Lab. Please check out their [work](http://people.csail.mit.edu/mrub/evm/).*
 
 This project can monitor a user's heart rate in real time using just a webcam. It is a PPG ([Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram)) solution based on a color magnification [algorithm](http://people.csail.mit.edu/mrub/papers/vidmag.pdf) which makes it possible to see the color of your face change as blood rushes in and out of your head. This project allows you to visualize your face as it pulsates in real time. Since it is able to detect your pulses, it also calculates your heart rate in beats per minute (BPM). 
 
-![Demo Gif](http://giladoved.com/images/heartratebox.webp)
+
+
+https://github.com/moody00au/webcam-heart-rate-monitor/assets/124024445/b1d83d6e-7ade-4670-a3fc-e1e61ecfd67f
+
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing.
@@ -18,6 +22,7 @@ These are the library versions I am using (other versions haven't been tested):
 python 2.7.13
 numpy  1.13.1
 opencv 4.5.5
+mediapipe (not sure about versions)
 ```
 
 ### Installing
